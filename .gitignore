@@ -53,3 +53,4 @@ dkms.conf
 
 #CUBEIDE SPECIFIC
 .metadata/
+RemoteSystemsTempFiles/
